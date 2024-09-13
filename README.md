@@ -1,0 +1,1 @@
+Esta fue la entrega final de Introducción a la programación, materia del primer cuatrimestre de la carrera. Contiene errores, siendo el más evidente no poder jugar más de una partida ya que no se reinicia el parametro que te permite pedir otra carta, solo dejándote jugar con 2.
